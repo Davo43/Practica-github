@@ -1,9 +1,9 @@
 # Practica-Github
-Propósito
+Propósito:
 Mi proyecto sirve para empezar a saber como funciona Github.
-Contenido
+Contenido:
 En este proyecto solo hay el contenido que mi piden de mi primera tarea de Github
-##Autor
+Autor:
 David Rodríguez Homs
-##Versión
+Versión:
 1.2
