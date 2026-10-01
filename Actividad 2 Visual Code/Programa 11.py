@@ -4,4 +4,3 @@ Perimetro = numero1 * 4
 area = numero1 ** 2
 print(f"El perímetro del cuadrado es: {Perimetro:.0f}")
 print(f"el área del cuadrado es: {area:.0f}")
-print(f"hola")
