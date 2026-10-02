@@ -2,4 +2,4 @@
 segundos = int(input("Introduce el numero de segundos: "))
 minutos = segundos / 60
 horas = minutos / 60
-print(f"En {segundos} segundos hay {minutos:.2f} minutos y {horas:.2f} horas.")
+print("El numero de minutos es: ", minutos, " y en horas es: ", horas, ".")
