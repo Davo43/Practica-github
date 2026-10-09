@@ -1,4 +1,6 @@
-precio=float(input("Intrduce el precio del producto: "))
-precio_con_descuento=precio/0.1
-iva=precio_con_descuento*0.21
-print(f"El precio total es"iva:.2f"€")
+precio = float(input("Introduce el precio del producto: "))
+descuento = precio * 0.10
+precio_con_descuento = precio - descuento
+iva = precio_con_descuento * 0.21
+precio_con_iva = iva + precio_con_descuento
+print(f"El precio total es {iva:.2f} €")
