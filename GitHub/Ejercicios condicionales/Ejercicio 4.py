@@ -2,7 +2,7 @@
 nota = float(input("Introduce tu nota: "))
 if nota < 5:
     print("Has suspendido")
-elif nota >= 5:
+elif nota >= 5 and nota <= 10:
     print("Has aprobado")
 else:
     print("Nota no válida")
