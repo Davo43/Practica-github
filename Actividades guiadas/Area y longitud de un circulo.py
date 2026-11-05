@@ -6,6 +6,6 @@ print(longitud)
 print(area)
 #Primer método redondeo
 print(f"La longitud del criculo es: {longitud:.2f}")
-print(math.ceil(area))
+print("El area es", math.ceil(area))
 print("La longitud del criculo es: ",round(longitud,2))
-print(math.floor(area))
+print("El area es", math.floor(area))
