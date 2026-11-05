@@ -6,7 +6,7 @@ if letra.islower():
     mayuscula = False
 if letra.islower():
     print("La letra está en minúscula")
-elif mayuscula == True:
+elif letra.isupper() == True:
     print("La letra está en mayúscula")
 else:
     print("La letra es mayúscula¿?")
